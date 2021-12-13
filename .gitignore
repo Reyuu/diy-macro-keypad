@@ -1,0 +1,17 @@
+.pio
+.vscode
+src/.vscode
+workspace.code-workspace
+
+# Created by https://www.toptal.com/developers/gitignore/api/platformio
+# Edit at https://www.toptal.com/developers/gitignore?templates=platformio
+
+### PlatformIO ###
+.pioenvs
+.piolibdeps
+.clang_complete
+.gcc-flags.json
+.pio
+.theia
+
+# End of https://www.toptal.com/developers/gitignore/api/platformio
